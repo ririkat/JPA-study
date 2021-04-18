@@ -2,7 +2,7 @@
 
 <br/>
 
-- ### [WIKI](https://github.com/ririkat/JPA-study.wiki.git)
+- ### [WIKI](https://github.com/ririkat/JPA-study/wiki)
 
 <br/>
 
